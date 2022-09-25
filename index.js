@@ -35,8 +35,10 @@ function addThreeGuest() {
 
 function resetHome() {
     countElHome.textContent = 0
+    countGuest = 0
 }
 
 function resetGuest() {
     countElGuest.textContent = 0
+    countGuest = 0
 }
